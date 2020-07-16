@@ -62,6 +62,4 @@ function tinyFriend(friends){
         }
     }
     return tinyFriend
-}    
-
-console.log(tinyFriend(['Alamgir','Rifa','Akash','ripha']))
+}
